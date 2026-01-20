@@ -1,0 +1,6 @@
+ctry_code,ctry_name,continent,fta_status
+US,미국,북미,Y
+CN,중국,아시아,Y
+VN,베트남,아시아,Y
+JP,일본,아시아,N
+DE,독일,유럽,N
